@@ -1,4 +1,4 @@
-# Loop — coding practice
+# Ai-powered-Student-coding
 
 A small, browser-based coding practice platform for Python 3, Java, C, and C++. It includes a problem library, a coding workspace with sample tests, locally saved solutions and progress, and optional AI hints, error analysis, and progress summaries.
 
